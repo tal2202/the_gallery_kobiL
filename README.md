@@ -1,2 +1,2 @@
 # theGallery
-# made only from phone view 
+# made only for phone view 
